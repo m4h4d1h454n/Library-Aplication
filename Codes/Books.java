@@ -72,5 +72,4 @@ public class Books
 	{
 		return("Book Name: " + getName() + "\nAuthor Name: " + getAuthor() + "\nDepartment: " + getDepartment() + "\nSubject: " + getSubject());
 	}
-	
 }
